@@ -81,7 +81,7 @@ export default function Home() {
                 </Button>
                 <Button
                   variant="outline"
-                  className="text-white border-white hover:bg-white/20"
+                  className="text-gray-800 border-white hover:bg-white/20"
                 >
                   Learn More
                 </Button>
