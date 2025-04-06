@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hobby Match",
+  title: "Hobby Matchmaker",
   description: "Find Your Hobby Soulmates",
 };
 
