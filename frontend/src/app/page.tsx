@@ -26,7 +26,7 @@ export default function Home() {
                 <line x1="12" y1="22" x2="12" y2="12" />
               </svg>
               <span className="hidden font-bold sm:inline-block">
-                HobbyMatch
+                Hobby Matchmaker
               </span>
             </Link>
             <nav className="flex items-center space-x-6 text-sm font-medium">
@@ -159,7 +159,7 @@ export default function Home() {
                 <line x1="12" y1="22" x2="12" y2="12" />
               </svg>
               <p className="text-sm leading-loose text-center md:text-left">
-                © 2024 HobbyMatch. All rights reserved.
+                © 2024 Hobby Matchmaker. All rights reserved.
               </p>
             </div>
             <div className="flex gap-4">
