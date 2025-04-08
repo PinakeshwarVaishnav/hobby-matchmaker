@@ -68,7 +68,7 @@ export default function Home() {
             <div className="flex flex-col items-center space-y-4 text-center">
               <div className="space-y-2">
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none text-white">
-                  Find Your Hobby Soulmates
+                  Find Your Fellow Hobbyists
                 </h1>
                 <p className="mx-auto max-w-[700px] text-white md:text-xl">
                   Connect with people who share your passions. Discover new
